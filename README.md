@@ -1,11 +1,11 @@
 ###### PT-BR
-## 💰 Evolução Monetária e Trocas de Moeda no Brasil
+## 💰 Evolução Monetária no Brasil
 
 > Projeto de pesquisa desenvolvido como parte de um desafio da plataforma de estudos DIO, com o apoio do NotebookLM, sobre a história das moedas brasileiras, as reformas monetárias e os impactos das trocas de moeda na sociedade.
 
 ### 📌 Contexto e Objetivos
 
-Este repositório documenta uma pesquisa temática desenvolvida no NotebookLM sobre a evolução monetária e as trocas de moeda no Brasil.
+Este repositório documenta uma pesquisa temática desenvolvida no NotebookLM sobre a evolução monetária no Brasil.
 
 O tema foi escolhido por interesse pessoal em colecionar moedas e cédulas antigas. Esse interesse surgiu a partir de moedas e notas guardadas pelo meu avô, que não foram trocadas no banco durante os períodos de mudanças monetárias no país. Além do valor histórico e afetivo, esses objetos despertaram minha curiosidade sobre como as transformações econômicas brasileiras influenciaram o dinheiro utilizado no cotidiano da população.
 
@@ -157,13 +157,13 @@ Desenvolvido por Sara Lakonski como um projeto de estudo temático utilizando o 
 ---
 ###### US
 
-## 💰 Monetary Evolution and Currency Changes in Brazil
+## 💰 Monetary Evolution in Brazil
 
 > A research project developed as part of a challenge from the DIO learning platform, with NotebookLM support, about the history of Brazilian currencies, monetary reforms, and the social impacts of currency changes.
 
 ### 📌 Context and Objectives
 
-This repository documents a thematic research project developed with NotebookLM about the monetary evolution and currency changes in Brazil.
+This repository documents a thematic research project developed with NotebookLM about the monetary evolution in Brazil.
 
 The topic was chosen because of my personal interest in collecting old coins and banknotes. This interest began with old money kept by my grandfather that was not exchanged at the bank during periods of monetary transition in Brazil. Beyond their historical and emotional value, these items raised my curiosity about how economic transformations influenced the money used in people's daily lives.
 
