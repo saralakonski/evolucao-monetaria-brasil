@@ -42,7 +42,7 @@ As fontes abaixo foram selecionadas para upload e análise no NotebookLM. A cura
 
 ### 🖼️ Imagens
 
-As imagens utilizadas neste projeto incluem moedas e cédulas brasileiras obtidas em fontes oficiais, além de fotografias autorais da minha coleção pessoal. Todos os arquivos visuais podem ser acessados na pasta `images` deste repositório.
+As imagens utilizadas neste projeto incluem moedas e cédulas brasileiras obtidas em fontes oficiais, além de fotografias autorais da minha coleção pessoal. Todos os arquivos visuais podem ser acessados na pasta `images/images` deste repositório.
 
 
 
@@ -196,7 +196,7 @@ The following sources were selected for upload and analysis in NotebookLM. The s
 
 ### 🖼️ Images
 
-The images used in this project include Brazilian coins and banknotes obtained from official sources, as well as original photographs from my personal collection. All visual files are available in the `images` folder of this repository.
+The images used in this project include Brazilian coins and banknotes obtained from official sources, as well as original photographs from my personal collection. All visual files are available in the `images/images` folder of this repository.
 
 
 
