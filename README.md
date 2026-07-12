@@ -3,6 +3,10 @@
 
 > Projeto de pesquisa desenvolvido como parte de um desafio da plataforma de estudos DIO, com o apoio do NotebookLM, sobre a história das moedas brasileiras, as reformas monetárias e os impactos das trocas de moeda na sociedade.
 
+<img src="images/images/banner.png">
+
+<p align="center">
+
 ### 📌 Contexto e Objetivos
 
 Este repositório documenta uma pesquisa temática desenvolvida no NotebookLM sobre a evolução monetária no Brasil.
@@ -160,6 +164,10 @@ Desenvolvido por Sara Lakonski como um projeto de estudo temático utilizando o 
 ## 💰 Monetary Evolution in Brazil
 
 > A research project developed as part of a challenge from the DIO learning platform, with NotebookLM support, about the history of Brazilian currencies, monetary reforms, and the social impacts of currency changes.
+
+<img src="images/images/banner.png">
+
+<p align="center">
 
 ### 📌 Context and Objectives
 
